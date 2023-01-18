@@ -1,7 +1,9 @@
 # Praktikum 11
 
 NAMA    : INAYATUS SHOLEKHAWATI
+
 KELAS   : TI.22.A.2
+
 NIM     : 312210200
 
 ## Penjelasan
